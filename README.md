@@ -6,6 +6,15 @@ FundLens is a Python financial-document intelligence application that combines *
 
 > **Status:** Research/portfolio prototype. Not a financial adviser, investment recommendation engine, or audited financial-data service. Evaluation results below apply to a small, curated Alphabet benchmark.
 
+## Demo Video
+
+Watch FundLens in action:
+
+[Watch the FundLens Demo](YOUR_YOUTUBE_VIDEO_URL)
+
+The demo covers SQL, RAG, and Hybrid question answering
+using Alphabet's SEC financial filings.
+
 ## Why FundLens?
 
 Financial questions often need different evidence:
