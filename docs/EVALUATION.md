@@ -1,6 +1,5 @@
 # FundLens — Evaluation Results
-
-**Evaluation date:** 27 October 2026  
+  
 **System:** LangGraph-powered financial research assistant with SQL, RAG, and Hybrid query paths  
 **Dataset scope:** Curated questions about Alphabet (GOOGL), using FY2024 10-K and Q1 2025 10-Q data  
 **Evaluation approach:** Deterministic functional tests over three repeated runs, plus a separate custom Groq LLM-as-a-judge evaluation on the final run.
